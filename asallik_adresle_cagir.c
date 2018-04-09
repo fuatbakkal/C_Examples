@@ -46,4 +46,3 @@ void asal_mi(int *sayi, int *sonuc)
 	else
 		*sonuc=0;
 }
-
